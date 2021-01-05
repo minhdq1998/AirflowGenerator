@@ -4,3 +4,4 @@
 .metals
 .env
 **/db.sqlite3/**
+airflowgenerator/db.sqlite3
