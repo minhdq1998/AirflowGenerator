@@ -1,0 +1,6 @@
+.vscode
+.sandbox
+**/__pycache__/**
+.metals
+.env
+**/db.sqlite3/**
